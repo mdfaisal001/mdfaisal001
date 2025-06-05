@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="cool programmer" />
+  <img src="https://media.giphy.com/media/jRfJ4fYz2X5sI/giphy.gif" width="100%" alt="anime male coding" />
 </p>
+
 
 
 
