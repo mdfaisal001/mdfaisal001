@@ -106,7 +106,6 @@
 ### 🎉 Fun Facts
 
 - Coffee enthusiast ☕ who codes best at night  
-- Avid gamer and tech blogger  
 - Always up for hackathons and coding challenges  
 
 ---
