@@ -102,7 +102,4 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdfaisal001&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdfaisal001&theme=tokyonight&hide_border=true" height="170" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mdfaisal001&show_icons=true&theme=tokyonight&hide_border=true" height="170" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdfaisal001&theme=tokyonight&hide_border=true" height="170" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaisal001&layout=compact&theme=tokyonight&hide_border=true" height="150" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdfaisal001&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mdfaisal001&theme=onedark&margin-w=15&no-frame=true&title=MultiLanguage,Commits,Repositories,Stars,PullRequest,Issues" /> </p>
