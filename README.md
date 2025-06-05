@@ -3,10 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammed+Faisal+S.;Problem+Solver+%F0%9F%94%8E+%7C+System+Design+Learner+%F0%9F%92%BB;Full+Stack+Web+Developer+%F0%9F%94%A5;Code.+Create.+Conquer.+%F0%9F%AA%9C" alt="Typing Animation" />
 </p>
 
-<!-- ⚙️ Professional Developer GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg4MWE3YTIzN2RkNjFlMWE3ODNjZGI1NzFlMWU4NzI1YmY4ZTQzYSZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="calm coder boy" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="cool programmer" />
 </p>
+
 
 
 <!-- 📊 Profile Views -->
