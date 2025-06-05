@@ -5,7 +5,7 @@
 
 <!-- ⚙️ Professional Developer GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100%" alt="typing animation"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg4MWE3YTIzN2RkNjFlMWE3ODNjZGI1NzFlMWU4NzI1YmY4ZTQzYSZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="calm coder boy" />
 </p>
 
 
