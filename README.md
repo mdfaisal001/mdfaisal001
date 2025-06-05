@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammed+Faisal+S.;Aspiring+Software+Engineer+%F0%9F%92%BB;Problem+Solver+%7C+System+Design+Explorer+%F0%9F%94%8E;React+Developer+%7C+Full+Stack+Learner+%F0%9F%94%A5;Crafting+clean+%26+scalable+solutions+%F0%9F%96%A5%EF%B8%8F" />
 </p>
 
-<!-- Short Bio / Quote -->
-<p align="center" style="font-style: italic; font-size: 1.1em; margin-top: -15px; margin-bottom: 20px;">
-  "Building software that makes life easier, one line at a time."
-</p>
-
 <!-- 👨‍💻 Coder Male GIF Centered -->
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="70%" alt="male coder gif"/>
