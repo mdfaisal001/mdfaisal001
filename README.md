@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Electronics & Communication Engineering** student  
+- 💻**Software Develper,Problem Solver,System Design Enthusiast ** 
 - 🧠 Completed **100 Days of DSA**, solved **200+ LeetCode problems**  
 - ⚛️ Building projects with **React**, diving into **System Design & Backends**  
 - 💡 Passionate about clean code, performance, and real-world impact  
