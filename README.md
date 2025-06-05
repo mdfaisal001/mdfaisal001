@@ -5,8 +5,9 @@
 
 <!-- ⚙️ Professional Developer GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/IeRdg7Cke6pD7YefYk/giphy.gif" width="100%" alt="professional dev gif" />
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100%" alt="typing animation"/>
 </p>
+
 
 <!-- 📊 Profile Views -->
 <p align="center">
