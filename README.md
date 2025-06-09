@@ -1,6 +1,6 @@
 <!-- 🧑‍💻 Custom Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdfaisal001/mdfaisal001/main/github%20over%20updated.png" alt="header" width="100%" />
+  <img src="https://raw.githubusercontent.com/mdfaisal001/mdfaisal001/main/github_cover.png" alt="header" width="100%" />
 </p>
 
 <!-- ⌨️ Typing Header -->
