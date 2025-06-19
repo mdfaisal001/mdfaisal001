@@ -5,7 +5,7 @@
 
 <!-- ⌨️ Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammed+Faisal+S.;Software+Engineer+%7C+React+Developer;System+Design+Explorer+%F0%9F%94%8E;Building+clean%2C+scalable+solutions+%F0%9F%96%A5%EF%B8%8F" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammed+Faisal+S.;Software+Engineer+%7C+Problem+Solver;System+Design+Explorer+%F0%9F%94%8E;Building+clean%2C+scalable+solutions+%F0%9F%96%A5%EF%B8%8F" />
 </p>
 
 <!-- ✨ Quote -->
